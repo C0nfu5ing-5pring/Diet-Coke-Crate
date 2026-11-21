@@ -1,8 +1,6 @@
 # Diet Coke Crate
 It's a diet coke crate!
 
-![Click here to see it!!!!](./images/model.png)
-
 ## Features
 
 - Weight around 174 grams
@@ -29,18 +27,10 @@ It's a diet coke crate!
 | `Diet Coke Crate.stl` | Printable   |
 | `Diet Coke Crate.3mf` | Sliced |
 
-
-## Gallery
-
-![View 1](./images/img1.png)
-
-![View 2](./images/img2.png)
-
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
 ---
 
-**Designed by [Your Name](https://github.com/c0nfu5ing-5pring)**
+**Designed by [Shish](https://github.com/c0nfu5ing-5pring)**

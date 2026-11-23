@@ -1,6 +1,10 @@
 # Diet Coke Crate
 It's a diet coke crate!
 
+# Onshape Link
+
+https://cad.onshape.com/documents/87d032d6135a6f3c4a1e4226/w/24ea371fbe788dcafa747407/e/f5a01c8508d28549c2d4e512?renderMode=0&uiState=6b03ac91026ee76171d70d28
+
 ## Features
 
 - Weight around 174 grams
